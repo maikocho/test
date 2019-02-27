@@ -1,0 +1,2 @@
+Can I use atom on terminal?
+OK, you can use atom.
